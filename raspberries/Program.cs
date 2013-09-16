@@ -3,6 +3,7 @@
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello git!");
+        // Initial greeting
+        Console.WriteLine("Hello your git!");
     }
 }
